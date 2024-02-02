@@ -1,68 +1,28 @@
-# Cleanfolio
+# Portfolio Project Readme
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rajshekhar26/cleanfolio-minimal).
+## Overview
+This portfolio project is a showcase of my skills, projects, and experiences. It serves as a professional portfolio to highlight my expertise, accomplishments, and contributions in the field. The portfolio is designed to provide an overview of my background, showcase projects I've worked on, and provide contact information for potential collaborators or employers.
 
-## Preview
+## Features
+- **About Me:** Provides a brief introduction and overview of my professional background, skills, and interests.
+- **Projects:** Showcases a selection of projects I have worked on, including descriptions, technologies used, and links to relevant resources or demos.
+- **Resume:** Includes a downloadable version of my resume for further information about my education, work experience, and skills.
+- **Contact:** Provides contact information for potential collaborators or employers to reach out to me for inquiries, opportunities, or collaborations.
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio)
+## Technologies Used
+- **HTML:** Used for structuring the web pages and content.
+- **CSS:** Used for styling and layout of the portfolio pages to ensure a visually appealing presentation.
+- **JavaScript:** Used for interactivity and dynamic elements on the portfolio site, such as contact forms or interactive elements.
+- **React:** Utilized for building interactive user interfaces and managing state within the portfolio project.
+- **Bootstrap:** Utilized for responsive design and layout of the portfolio across different devices and screen sizes.
+- **GitHub Pages:** Deployed the portfolio project using GitHub Pages for hosting and accessibility.
 
-[Live Demo](https://rajshekhar26.github.io/cleanfolio)
 
-## Instructions
+## Getting Started
+To explore the portfolio project, simply visit the deployed website link [https://nick-oyk.github.io/portfolio](#) and navigate through the different sections: About Me, Projects, and Contact.
 
-### Setup
+## Contact
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or through my LinkedIn profile [here](#). I look forward to hearing from you!
 
-```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
-```
+---
 
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
-
-```shell
-nvm install
-nvm use
-```
-
-Or:
-
-```shell
-fnm install
-fnm use
-```
-
-To install and launch the project, run these commands:
-
-```shell
-yarn
-yarn start
-```
-
-### How to Use
-
-- Open the `public/index.html` file and replace:
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
-### Deployment
-
-- In the `package.json` file, update:
-
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
-
-to `"homepage": "https://yourusername.github.io"`.
-
-- Push the changes to your repository.
-
-- To build and deploy, run the following commands:
-
-```shell
-yarn build
-yarn deploy
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
