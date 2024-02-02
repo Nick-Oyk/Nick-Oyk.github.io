@@ -14,7 +14,7 @@ This portfolio project is a showcase of my skills, projects, and experiences. It
 - **CSS:** Used for styling and layout of the portfolio pages to ensure a visually appealing presentation.
 - **JavaScript:** Used for interactivity and dynamic elements on the portfolio site, such as contact forms or interactive elements.
 - **React:** Utilized for building interactive user interfaces and managing state within the portfolio project.
-- **Bootstrap:** Utilized for responsive design and layout of the portfolio across different devices and screen sizes.
+- **Material UI:** Utilized for responsive design and layout of the portfolio across different devices and screen sizes.
 - **GitHub Pages:** Deployed the portfolio project using GitHub Pages for hosting and accessibility.
 
 
