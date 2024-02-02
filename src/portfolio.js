@@ -26,6 +26,13 @@ const projects = [
       'The production-ready Backend EV Charging service enables users to charge with multiple vendors, including JomCharge and ChargeNGo, through the Setel app. Built on Nest JS, it leverages MongoDB as its database and is deployed on AWS using Kubernetes and ArgoCD for efficient management and scalability. This comprehensive solution seamlessly integrates various charging vendors, providing users with a convenient and reliable platform for EV charging needs. With robust technology stack and deployment infrastructure, it ensures optimal performance and scalability for evolving user demands in the electric vehicle charging ecosystem.      ',
     stack: ['NestJs', 'React', 'MongoDB', 'AWS'],
     livePreview: 'https://www.setel.com/ev-charging'
+  },
+  {
+    name: 'Micro-service Architecture test ',
+    description:
+      'The Microservice Architecture Test Application is a versatile platform for evaluating microservices-based systems. It offers comprehensive testing for service communication, fault tolerance, scalability, and resilience. With modular architecture and real-time monitoring, it provides developers insights to optimize deployments for reliability and efficiency in production environments.',
+    stack: ['NestJs', 'MongoDB', 'Kubernetes', 'Docker', 'Postgresql'],
+    sourceCode: 'https://github.com/Nick-Oyk/Micro-service-Architecture-Test'
   }
 ]
 
