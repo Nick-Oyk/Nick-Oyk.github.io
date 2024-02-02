@@ -24,7 +24,7 @@ const projects = [
     name: 'Setel EV Charging',
     description:
       'The production-ready Backend EV Charging service enables users to charge with multiple vendors, including JomCharge and ChargeNGo, through the Setel app. Built on Nest JS, it leverages MongoDB as its database and is deployed on AWS using Kubernetes and ArgoCD for efficient management and scalability. This comprehensive solution seamlessly integrates various charging vendors, providing users with a convenient and reliable platform for EV charging needs. With robust technology stack and deployment infrastructure, it ensures optimal performance and scalability for evolving user demands in the electric vehicle charging ecosystem.      ',
-    stack: ['NestJs', 'React', 'MongoDB', 'AWS'],
+    stack: ['NestJs', 'React', 'MongoDB', 'AWS', 'Kubernetes', 'ArgoCD'],
     livePreview: 'https://www.setel.com/ev-charging'
   },
   {
@@ -48,7 +48,8 @@ const skills = [
   'AWS',
   'Kubernetes',
   'Gitops',
-  'NestJs'
+  'NestJs',
+  'ArgoCD'
 ]
 
 const contact = {
