@@ -19,10 +19,10 @@ This portfolio project is a showcase of my skills, projects, and experiences. It
 
 
 ## Getting Started
-To explore the portfolio project, simply visit the deployed website link [https://nick-oyk.github.io/portfolio](#) and navigate through the different sections: About Me, Projects, and Contact.
+To explore the portfolio project, simply visit the deployed [website link](https://nick-oyk.github.io/portfolio) and navigate through the different sections: About Me, Projects, and Contact.
 
 ## Contact
-For any inquiries, feedback, or collaboration opportunities, feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or through my LinkedIn profile [here](#). I look forward to hearing from you!
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out to me via email at [nicholasoyk@gmail.com](mailto:nicholasoyk@gmail.com) or through my LinkedIn profile [here](https://www.linkedin.com/in/ooi-yu-khai-3a1930193/). I look forward to hearing from you!
 
 ---
 
