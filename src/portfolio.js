@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     'I am a software engineer with knowledgeable skills in modern-day technologies and experience using Frontend and Backend Technology stacks, focusing on Nodejs and Reactjs.',
-  resume: 'https://example.com',
+  resume: '/resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/ooi-yu-khai-3a1930193/',
     github: 'https://github.com/Nick-Oyk'
